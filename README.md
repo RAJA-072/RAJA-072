@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Raja Rajeswari R.</h1>
-
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2500&color=E6A709&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github!!" alt="Typing SVG" /></a>
 
 
 <h3 align="left">Connect with me:</h3>

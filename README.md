@@ -20,7 +20,6 @@
 | `Tools`       | ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) |
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=RAJA-072&theme=dark)
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=RAJA-072)](https://git.io/streak-stats)
 
 

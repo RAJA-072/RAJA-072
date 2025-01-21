@@ -47,8 +47,6 @@ I'm a passionate developer with expertise in Machine Learning, Web Development, 
 
 <h2 align="center">🔥 GitHub Streak 🔥</h2>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=RAJA-072" alt="GitHub Streak" />
-  </a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RAJA-072)](https://git.io/streak-stats)
 </p>
 

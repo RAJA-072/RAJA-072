@@ -21,7 +21,7 @@ I'm a passionate developer with expertise in Machine Learning, Web Development, 
 | [Waste-Classification-ML-Project](https://github.com/RAJA-072/Waste-Classification-ML-Project)           | A machine learning project to classify waste into reusable and non-reusable categories using computer vision and automation. | Python      |
 | [The-Jungle-Journey_VR-Educational-Game](https://github.com/RAJA-072/The-Jungle-Journey_VR-Educational-Game) | A VR-based educational game designed to make learning fun and interactive. | Unity       |
 | [Bloomia_Flower_Recognition-ML](https://github.com/RAJA-072/Bloomia_Flower_Recognition-ML)               | A flower recognition system using machine learning to classify various flower species. | Python      |
-| [Figma-App-Design-BUDGETTY-APP](https://github.com/RAJA-072/Figma-App-Design-BUDGETTY-APP)               | A dynamic and user-friendly Budgetty App Design with elegant design and responsive features. | Figma  |
+| [Figma-App-Design-BUDGETTY-APP](https://github.com/RAJA-072/Figma-App-Design-BUDGETTY-APP)               | A dynamic and user-friendly Budgetty App Design with elegant design and responsive features | Figma  |
 
 ---
 

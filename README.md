@@ -62,10 +62,7 @@ Here are some of my standout projects that showcase my skills and creativity:
 ## 📊 **GitHub Stats & Streak** 📊
 
 <p align="center">
-  <a href="https://github.com/RAJA-072">
-    <img src="https://github-readme-stats.vercel.app/api?username=RAJA-072&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <br />
+ 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=RAJA-072&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
@@ -91,25 +88,6 @@ Here are some of my standout projects that showcase my skills and creativity:
   <a href="https://discord.gg/AfmcrkGf" target="blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</p>
-
----
-
-## 🎓 **Education** 🎓
-
-<p align="center">
-  <strong>Bachelor of Engineering (Expected Graduation: 2026)</strong><br />
-  Specialization: Information Technology <br />
-</p>
-
----
-
-## 🌱 **Currently Learning** 🌱
-
-<p align="center">
-  - Advanced Machine Learning Techniques<br />
-  - Cloud Computing (AWS, Azure)<br />
-  - Full-Stack Web Development (MERN Stack)
 </p>
 
 ---

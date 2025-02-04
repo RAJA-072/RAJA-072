@@ -99,8 +99,7 @@ Here are some of my standout projects that showcase my skills and creativity:
 
 <p align="center">
   <strong>Bachelor of Engineering (Expected Graduation: 2026)</strong><br />
-  Specialization: Computer Science & Engineering<br />
-  Institution: [Your University Name]
+  Specialization: Information Technology <br />
 </p>
 
 ---

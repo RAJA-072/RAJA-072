@@ -21,7 +21,7 @@ Here are some of my standout projects that showcase my skills and creativity:
 | **Project**                                                                                               | **Description**                                                                 | **Tech Stack**      |
 |-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------|
 | [Waste-Classification-ML-Project](https://github.com/RAJA-072/Waste-Classification-ML-Project)           | A machine learning project to classify waste into reusable and non-reusable categories using computer vision and automation. | Python, OpenCV, TensorFlow |
-| [The-Jungle-Journey_VR-Educational-Game](https://github.com/RAJA-072/The-Jungle-Journey_VR-Educational-Game) | A VR-based educational game designed to make learning fun and interactive. | Unity, C#, VR Development |
+| [The-Jungle-Journey_VR-Educational-Game](https://github.com/RAJA-072/The-Jungle-Jorney_VR-Educational-Game) | A VR-based educational game designed to make learning fun and interactive. | Unity, C#, VR Development |
 | [Bloomia_Flower_Recognition-ML](https://github.com/RAJA-072/Bloomia_Flower_Recognition-ML)               | A flower recognition system using machine learning to classify various flower species. | Python, TensorFlow, Keras |
 | [Figma-App-Design-BUDGETTY-APP](https://github.com/RAJA-072/Figma-App-Design-BUDGETTY-APP)               | A dynamic and user-friendly Budgetty App Design with elegant design and responsive features. | Figma, UI/UX Design |
 

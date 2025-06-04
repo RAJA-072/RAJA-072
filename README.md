@@ -1,7 +1,9 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Raja+Rajeswari+R;Crafting+code+that+inspires+%F0%9F%92%A1" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=E6A709&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Hello%2C+I'm+Raja+Rajeswari+R.;Aspiring+Software+Engineer;ML+Enthusiast+%7C+Game+Developer" alt="Typing SVG" />
-  </a>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150" alt="Coder GIF" />
 </p>
 
 ---
@@ -62,11 +64,13 @@ Here are some of my standout projects that showcase my skills and creativity:
 ## 📊 **GitHub Stats & Streak** 📊
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJA-072&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAJA-072&theme=highcontrast&hide_border=true" />
+  <br/>
  
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=RAJA-072&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
 </p>
+
 
 ---
 
@@ -90,18 +94,10 @@ Here are some of my standout projects that showcase my skills and creativity:
   </a>
 </p>
 
----
-
-## 💡 **Goals for 2026** 💡
-
 <p align="center">
-  - Graduate with honors and a strong portfolio of projects.<br />
-  - Secure an internship or full-time role in software development or machine learning.<br />
-  - Contribute to open-source projects and collaborate with like-minded developers.
-</p>
 
----
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,7,0,7,30&height=100&section=footer"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAJA-072&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=RAJA-072&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
